@@ -1,0 +1,12 @@
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\bin\Debug\net5.0\RobotControllerAPI.deps.json
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\bin\Debug\net5.0\RobotControllerAPI.dll
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\bin\Debug\net5.0\ref\RobotControllerAPI.dll
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\bin\Debug\net5.0\RobotControllerAPI.pdb
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\obj\Debug\net5.0\RobotControllerAPI.csproj.AssemblyReference.cache
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\obj\Debug\net5.0\RobotControllerAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\obj\Debug\net5.0\RobotControllerAPI.AssemblyInfoInputs.cache
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\obj\Debug\net5.0\RobotControllerAPI.AssemblyInfo.cs
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\obj\Debug\net5.0\RobotControllerAPI.csproj.CoreCompileInputs.cache
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\obj\Debug\net5.0\RobotControllerAPI.dll
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\obj\Debug\net5.0\ref\RobotControllerAPI.dll
+C:\Users\tiio\source\repos\RobotControllerAPI\RobotControllerAPI\obj\Debug\net5.0\RobotControllerAPI.pdb
